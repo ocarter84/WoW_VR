@@ -1,32 +1,14 @@
 # WoW_VR
-World of Warcraft development in Virtual Reality
+World of Warcraft development in Virtual Reality... is something that I think would be awesome! 
+
+This app is a simple one that takes approx 20 min to create. 
+There is a simple camera designed for Oculus that starts you in a sceen with a star back drop and 3 menu boxes floating infront of you. 
+No motion, jumping or stepping sound is available. 
+There Is also a platform and a box to your lower left. If you look at the box it will teleport itself randomly along the y axis (up/down) somewhere between 0 and 3 feet.  
+There is also a reticle that is always facing you no matter where you look that stays at a fixed distance away from you as an indicator for the user which direction your gaze is being registered in the game.  
 
 # README #
+Any questions, comments or concerns... please sign my guestbook!
+https://okbyme210.appspot.com/
 
-This README would normally document whatever steps are necessary to get your application up and running. <- Someone please make this look more 'official'
 
-### What is this repository for? ###
-
-* Quick summary - This is just the beginning...
-* Wow VR Version - 1.01a
-
-### How do I get set up? ###
-
-* Summary of set up: Oculus DK2, Unity 5.6
-* Configuration: y = up, z = forward, x = to the right 
-* Dependencies: VR Capable computer
-* Database configuration: hiring (open position here)
-* How to run tests: hiring here too...
-* Deployment instructions: hiring here too...
-
-### Contribution guidelines ###
-
-* Writing tests: hiring (open position here)
-* Code review: hiring (open position here)
-* Other guidelines: hiring (open position here)
-
-### Who do I talk to? ###
-
-* Oliver T Carter @ gmail
-* Other community or team contact: open
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
