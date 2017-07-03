@@ -9,8 +9,7 @@ There Is also a platform and a box to your lower left. If you look at the box it
 There is also a reticle that is always facing you no matter where you look that stays at a fixed distance away from you as an indicator for the user which direction your gaze is being registered in the game.  
 
 # README #
-Any questions, comments or concerns... please sign my guestbook!
-https://okbyme210.appspot.com/
+
 
 # From the C# Assembly dll #
 Readme Section: VRStandardAssets.Utils 
