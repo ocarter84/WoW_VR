@@ -1,7 +1,5 @@
 
-## WoW_VR
-World of Warcraft development in Virtual Reality... is something that I think would be awesome! 
-
+## C# Virtual Reality in Unity
 This app is a simple one that takes approx 20 min to create. 
 There is a standard camera designed for Oculus that starts you in a sceen with a star back drop and 3 menu boxes floating infront of you. 
 No motion, jumping or stepping sound is available. 
